@@ -1,6 +1,8 @@
 # Word-Graph
 This program finds shortest word ladder between words and returns all of the anagrams for one word. This is a test for the use of graph. Final project for CS 201 Data Structure
-###############################################################
+
+----------------------------------------------------------------------
+
 The program 'WordGraph' is a word game helper that finds the word ladder or all anagrams for input words.
 
 The command line syntax for our program is: java ladder startWord endWord, which returns a 
